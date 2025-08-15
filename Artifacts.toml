@@ -1,316 +1,316 @@
 [[libheif]]
 arch = "aarch64"
-git-tree-sha1 = "892f229ae389e8a93ba84e67db55ce81045ec5f2"
+git-tree-sha1 = "47c9cf16a64eba19db0dc72db155bfc34652cacb"
 os = "macos"
 
     [[libheif.download]]
-    sha256 = "223007aa17e1a9f84e1731df3db429e2d4c34ff35cce9dcc084337fbe5eecea4"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-apple-darwin.tar.gz"
+    sha256 = "2e2e905ac3ea2590818f2df73600cb54f1a8c61a8294ec55059da79636661145"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-apple-darwin.tar.gz"
 [[libheif]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "25ca026d57670dabe450c615e9b04d2620faad0a"
+git-tree-sha1 = "a62bd12283dcd2fc2ac7bd0d7022b2d7a2ac0d01"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "f0b67c6e34c2d1690010da7781e3decdd9006e8a59dc0c09fde8d4b66ac88394"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "174e79a25e797abc9e72290f5b0d592866e8b8b157c9f6087af6396eb2e14f7b"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-linux-gnu-cxx03.tar.gz"
 [[libheif]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94d9ce623074a0b8e4c06767288c11de6fcbcaaa"
+git-tree-sha1 = "069233dfc273b79d7570d9a5e18bf335c9d698da"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "f259a0f8629db0e757b2018627bb135cb081c2ddc4e1b914ac21ce47b70615ff"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2b93007e4130a7814efad5eb7f85e2e8daf5bbbce1676fb06d9c17a17f379708"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-linux-gnu-cxx11.tar.gz"
 [[libheif]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "92b01bad105dde264365f9e440dade443c3b7005"
+git-tree-sha1 = "91aea487d247ef09b1767d9998a7d87ea260b499"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "614bf5fbc6c66337eaaf5e45b03d653f5184015d3721148ef9eaecab89e54a25"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "0cf344eec948bcc0e9022d371154f1870ac0d6d626e318162e6c011ec6662eb8"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-linux-musl-cxx03.tar.gz"
 [[libheif]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5f0a1d4d1a334f9200abb3c18059159050b5007"
+git-tree-sha1 = "fb405b73620e91dea959915f00137add62b47c95"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "4d6023281667f873f3f7cfc3511f666b01ca0314e675a6f3b8b83b5b7a849233"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "64a49d34630b8f85fc286762ecac6a6d46dbf0fac7ee30ac826e4120723431ae"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-linux-musl-cxx11.tar.gz"
 [[libheif]]
 arch = "aarch64"
-git-tree-sha1 = "e2d78ce40cb336dea76d1210157eeaf9c11a45bb"
+git-tree-sha1 = "08faeb6be3511de04803859c8d532f476c587ef5"
 os = "freebsd"
 
     [[libheif.download]]
-    sha256 = "640f791df4577f9662684810382684965e81f6c21f6e68a4168441e5e55fdaf5"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "081721d83004d5c3e5ab0e11cf4b27b578c1b43135a58248e8b17f9c43fa1858"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.aarch64-unknown-freebsd.tar.gz"
 [[libheif]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afee1f0f8ab352f59fbf2fa985b3b3ab075e500b"
+git-tree-sha1 = "f9b2fa7b6a8dd8f03612e4b238249c6039917acb"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "edadd56cc5a3296de726485aa098cce940809a328d30f3b4aaabf75a6a8e46b1"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "99a924a5966d780622caafd4085e83e3e5c5779e0750dd35d371aa8c7cb596f1"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[libheif]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef9e8b09eb7949baedc7077c8275a0060aed886f"
+git-tree-sha1 = "31097a5845d5f71ad921df61e4d19759159b0415"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "46874601d4ff93179d6c3426fa0ade6dda402635acbf1ecef0bdf50f9cfe6cdc"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "d4c66109d95ecf1b98baeaebcf10ae30bdc92ddb640babd660133afec77d0680"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libheif]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d819325ff4697b1d365df29fc64571fd7b3b3298"
+git-tree-sha1 = "20bf793620694abac066d1a953918c4332955abf"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "f2962b363ce2736fa35fe547d7e6251e3c717a4069a46180ef6de09fdf5feb59"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "df87090acc6ab65beba65827b371b8dac6bcc8736690d0f33ec96e5a38e4bdaa"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[libheif]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12562a0226e93219f5411ca49c73a4d6adc18df3"
+git-tree-sha1 = "655ff9057189c068bbe23f63e34cf9bfffa57468"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "c216bd1f0f8be9c8eb23c4eecff47b7c982514a4da85c93c29322a732dc5e5ed"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5876b401ec60a11a9baa9091feea683631ad3d454e3752150c563f3223a5a8f7"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libheif]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a8effebc59668f5c9b0a4a6ba64bcaa6a8ebac0a"
+git-tree-sha1 = "7def6c32df564e9d568265d4531c85051ab7ac54"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "25df97ce6e2bd879e8e2b4733d91e3c40baa25fbc205f30fae0220d9e3e2d639"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "99a6a9dc2c44f6ffd52f67ed172524e45e6148d394991e719af9a23e42325404"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[libheif]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae31a67fae37740c663f688717f8bf0e15a7171b"
+git-tree-sha1 = "88cbb0cdf2121004fd211ad6eb3396cdd3363d8c"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "45e795ed6d0dd67964f2017a7d77b00f935469503e7da1cfa4f00a8388b9fbd3"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "860628aa8feef86686b102f688e0f03882d2f48f50ea9b67c2e98dfe590a65b4"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libheif]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55c823f04276ea90e5f6bcded22154869270a6f2"
+git-tree-sha1 = "c548eea3209990fbfc130a646b1468420db08ed4"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "e6fd4193b8104e4cfae4859de9ea7f2d54696cfe62c2faa495b20486cdbaf363"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "37d4dd3181f82eba8e05788950140bddf7544ab4eb800c2ce509a3e3006168c7"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[libheif]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99d6182fcc32578f5f51f4531ae3719912a94d4f"
+git-tree-sha1 = "8fabf318084cc7279307219c81d66848c6409cfc"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "1c57268c29b5ad10343d3b2a166b2674d3977f31c3417b366fbc59c725afed33"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d0b263c4fcd4ba83e089e6f40e920acb5f5917ea95f5fbdacc9916250bce5d8c"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a60eb3cf85892396edb3ebc349c844128d9e7a4"
+git-tree-sha1 = "bf5dae8a19a8258a9fb22f868e4cc4917169b844"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "e71b4a6a1f935c489e6215cba8f069e7ed3d000e7a1db55722ae63ecc1579524"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "8b1d973d5a64c9cb0bad84cf4d2817dbc7d1d05ac44dfba7f77820b69cf34679"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-linux-gnu-cxx03.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a29638ce53e55e331bf4cb05d28653fc5db83002"
+git-tree-sha1 = "3fa864a15c00f2d29991e8672fba221494efebf6"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "706bdc9fd802b1bb9c23d8350af30d933c1b1916a98c62181dc76a03df165142"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "1074703455ef03a3e7d3731078c25a0d9ed56846877b4fe35d5017dd9a54860b"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-linux-gnu-cxx11.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "318ffbf0da712d983902afaa75d5da917710933f"
+git-tree-sha1 = "955b9543b32189235dbca72c0d563b187c9c29de"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "74aa01a8cd62f4c106b49b89630eed81738e7467c446b36319a379b8996d92ec"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "29054a5f1486a49d2fce6d27b9e91017811f412b4116b89b4562281a028060b8"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-linux-musl-cxx03.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8198c23008bd27d92b0d9956f6aab3c53891cdbf"
+git-tree-sha1 = "0328e6b5146d757089e88e30abeeab61f7078f6e"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "50ce0fc231a7738767abda4eac87616fd832d799ed6b8801707c3c26a7547d87"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "a51f9c7921e48f339775c760adb2d253c406097d1c4d1bb521623fcc2fc58e5f"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-linux-musl-cxx11.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2d44cb788a17e97c116513c24894e27b9b51ad7d"
+git-tree-sha1 = "11c0d324c67e8b37184b2ef411215db2a597a7d7"
 os = "windows"
 
     [[libheif.download]]
-    sha256 = "eff14890d1b8435d80645fb135dd23a8deddd228443e02207aee9a62f85e6f6e"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "1a0e717837d389195d9d2a2a4f70d3366ba1462fe7955167aa836b1cec7d503f"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-w64-mingw32-cxx03.tar.gz"
 [[libheif]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "596af7a94a73942bc592de0e1393855ddabb16e6"
+git-tree-sha1 = "6d4557baf444c172db2959ce1203a4f710ac9690"
 os = "windows"
 
     [[libheif.download]]
-    sha256 = "6ecb070e946361e8246e86ff129cd94b9cc63aa214c85760f6431aeabe0a097b"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "175af7169af307b8cf1faae09ef4ffec2edae9d6171e108c413cd127fef70ae5"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.i686-w64-mingw32-cxx11.tar.gz"
 [[libheif]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9371da6f36e3e9290e308e94ccd05f7666b464d7"
+git-tree-sha1 = "b255b8428c5776130e0de189c8bce43db96d3e38"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "1cb547b54c1406fb1fc6febb3e60e2c430ce01a3fc617278695c257ec56945c1"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "1dfd350dd495de7c20db7863b9249e851e7db799877f4a62ea2e0e6932d8d381"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[libheif]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1cfa83ecb6c822e30dc582b262059b69933d63a"
+git-tree-sha1 = "54380c0b3d42e4e0133d80d95e6b4f30f070f2a4"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "42d96fa612d788a287a5b6af0508fa19da808cfc12f4896571789d9690419ec9"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "d5ea974cbcbbfc12e6dc41f439be443761fef42847d7caef6425644934f7ef97"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libheif]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee6a00b46c510dac6a69ebc57df8a7b0e42d8959"
+git-tree-sha1 = "abf39d24fefc0f73a6485fce473382ee89f6d18f"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "e97902e20cebd655099fdecf0b17e0ecd778d763f867119a605edd2fdae5267c"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8ee69508ea38d2c66ad091a4004851936389282891ccd57c9867a302eb307f8d"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.riscv64-linux-gnu-cxx03.tar.gz"
 [[libheif]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa7b97ad280c61764d0e273e829026e859f926d7"
+git-tree-sha1 = "bebe7acc668d8ce9955216d4b95be5bafba2a67b"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "0c502b3e2f0efbbd5343f51d5f43c5faadc6d486c18ada4133f4d22e0861c491"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ea1bcaf0142ae10241567cd03742249540a3f14f86c71d425a49252d0a85749"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.riscv64-linux-gnu-cxx11.tar.gz"
 [[libheif]]
 arch = "x86_64"
-git-tree-sha1 = "400e23239aa9186a0e7c277ca07d98a29082cbcc"
+git-tree-sha1 = "4a3730b0963e4a8b6e4cffeb1d41d6e3f663d283"
 os = "macos"
 
     [[libheif.download]]
-    sha256 = "8388ecd0b6f1711951a4431d4b8f7af06c0e8e98ec563535c59dbf4366c94138"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-apple-darwin.tar.gz"
+    sha256 = "71a72557151562be3e0edc7d829b05f6500cb4420638431d9618eb5f4ceb08a2"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-apple-darwin.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf667c87c9dc89a202df59ae0844288814a77e28"
+git-tree-sha1 = "57e2f7b139eab38f55f81b10f3cd8dfe03b2c95a"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "12a345e2a472d8a7684b567943db2265da75644f5699aae65139c4867e0a6b4c"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "db9cdf6541a30bb097313d73926676a976e2f3ba0cb322ff5d71d3830a6ddde0"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-linux-gnu-cxx03.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d8754325f84df3a17fbd54d9dfe4b6fe38cc378"
+git-tree-sha1 = "35a429b22045576e39d85962a12048e8a8916b42"
 libc = "glibc"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "1d225d86d0a052c0753ae2718ac6d0325e7a55c98bd3ffbcb140c3cdd7b20d3a"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4f9d85151876035def49eb7471e2602596e0dfe111721bc2c0a7613b8539fa2f"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-linux-gnu-cxx11.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b9db38ff795846e99e723e8934326b253674262"
+git-tree-sha1 = "92240d1d2fcab118a8f30dc5eae286b0be165898"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "23d77bb8a7f8e7c99f71a447a2a940b37178451472c260cc529c6f4ad9c7bf05"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "79cdd0572301955d9c4c80c74a4d3371d4556071fd6bb5128b440efec326c493"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-linux-musl-cxx03.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a93ef76aa79030b6901205b854f9b4f7f4cc84c"
+git-tree-sha1 = "5785ae9b66734b61e98541ae173414cff71d157d"
 libc = "musl"
 os = "linux"
 
     [[libheif.download]]
-    sha256 = "a40c607a686906230df295baf4565cf3c12ef1a3151e4b719326a95ae5d043c2"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b987eb541fdc2c916244505787e2d9fe6ee3d34c6962826a3dcd0d006651a359"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-linux-musl-cxx11.tar.gz"
 [[libheif]]
 arch = "x86_64"
-git-tree-sha1 = "94400d042f5ed84e1d7dd751696e42ff75561f21"
+git-tree-sha1 = "533125ed225b1786d516ec9b16032f3ffe2e0b69"
 os = "freebsd"
 
     [[libheif.download]]
-    sha256 = "1a817557c844199d2593c3a962cce9124adf9107a8b48fe72963a6bee4f10fbc"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "00247558232b46d1e365842a450a66fc7768e7d217f09b4a941d46d660a5fb25"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-unknown-freebsd.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6bf6e70b37a369ef46ce33cfba8f39e1946991db"
+git-tree-sha1 = "e5bdd12fda3447c22e666811ae8267196e5457bb"
 os = "windows"
 
     [[libheif.download]]
-    sha256 = "a7efda53832d72f8d5ec594b4c0d38edeabd1c907120c142035f91abc646d3df"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7ae57762ed0d1300b8b776416f836fae5917b9345b051f4e4c2ecf32dd0e5f11"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libheif]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "311066085cf65ad3fddca35bae4ea8353970a146"
+git-tree-sha1 = "c880485500f9eea5d438968a69bb265916a2893c"
 os = "windows"
 
     [[libheif.download]]
-    sha256 = "a8cc18a588476469140d659fb3a94f68a69de96ba4920d1e1675d2031424f46c"
-    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.1000+0/libheif.v1.20.1000.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e5f852d613598c984c7ac256e157f2fbbab7353148e1a81af61b83cc891550b2"
+    url = "https://github.com/JuliaBinaryWrappers/libheif_jll.jl/releases/download/libheif-v1.20.2000+0/libheif.v1.20.2000.x86_64-w64-mingw32-cxx11.tar.gz"

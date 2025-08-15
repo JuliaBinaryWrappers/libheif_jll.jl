@@ -1,6 +1,6 @@
 name = "libheif_jll"
 uuid = "a13778fd-9a17-58b4-b5a0-4b4a242815a9"
-version = "1.20.1000+0"
+version = "1.20.2000+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,5 +15,6 @@ libde265_jll = "0a7f2b4d-d03c-5694-960e-196e69ee64e2"
 [compat]
 JLLWrappers = "1.7.0"
 julia = "1.6"
+Zlib_jll = "1.2.12"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
