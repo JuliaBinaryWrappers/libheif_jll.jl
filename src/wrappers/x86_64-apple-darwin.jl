@@ -12,7 +12,7 @@ function __init__()
     JLLWrappers.@generate_init_header(libde265_jll, libavif_jll, brotli_jll, LERC_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libheif,
-        "lib/libheif.1.23.3.dylib",
+        "lib/libheif.1.23.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
